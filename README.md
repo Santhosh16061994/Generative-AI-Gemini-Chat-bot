@@ -1,6 +1,6 @@
 # Generative-AI-Gemini-Chat-bot
 
-# Gemini ChatBot - Your AI-Powered Conversational Partner 🤖💬
+# Gemini ChatBot - Your AI-Powered Conversational Partner 🧑‍💻
 
 Welcome to **Gemini ChatBot**, an advanced AI-powered chatbot built using **Google Gemini** and deployed with **Streamlit**! 🚀
 
@@ -60,7 +60,7 @@ Before you begin, ensure that you have the following installed:
 ### Deploy to Streamlit Sharing
 - Push your code to GitHub and link it to [Streamlit Sharing](https://streamlit.io/sharing) to deploy it in the cloud for free.
 
-## 🤖 How It Works
+## 🧑‍💻 How It Works
 1. **User Input**: The user types a message into the Streamlit chat interface.
 2. **Gemini AI**: The input is sent to the Gemini AI model, which generates a response based on the input context.
 3. **Response Display**: The generated response is displayed back to the user in real-time.
@@ -85,6 +85,6 @@ gemini-chatbot/
 
 ```
 
-### Happy Chatting with Gemini! 🤖💬
+### Happy Chatting with Gemini! 🧑‍💻
 
 ---
